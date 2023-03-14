@@ -1,0 +1,15 @@
+.nav {
+    background-color: lightslategrey;
+    padding: 23px;
+    margin: -9;
+}
+
+body {
+    background-color: lightgrey;
+    padding: 0px;
+    margin: 0px;
+
+}
+img{
+    border-radius:10px;
+}
